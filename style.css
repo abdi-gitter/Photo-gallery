@@ -40,10 +40,10 @@ p {
 }
 body {
     background-image: url('images/Ethipia.jpg');
-    background-size: cover; /* Cover the entire viewport */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-attachment: fixed; /* Fixed background */
-    background-position: center; /* Center the background image */
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center; 
 }
 footer {
     background-color: #333;
